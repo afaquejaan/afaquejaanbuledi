@@ -68,14 +68,14 @@
     }
 
     #about-section{
-        height: 120vh;
+        height: 130vh;
         width: 100%;
     }
     
     .about{
         display: flex;
         flex-direction: column;
-        height: 100vh;
+        height: 120vh;
     }
 
     .profile img{
@@ -85,7 +85,7 @@
     }
 
     .about-text{
-        height: 70vh;
+        height: 100vh;
         align-items: center;
         text-align: justify;
     }
